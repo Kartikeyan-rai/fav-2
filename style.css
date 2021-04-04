@@ -1,0 +1,36 @@
+body{text-align:center;
+background-color:blue;
+color:#00ff19;}
+#img1{width:100px;
+border-radius:50%;}
+#p1{font-size:30px;font-variant:small-caps;}
+#p2{font-size:18px;
+color:#00ff19;}
+#p3{font-size:18px;
+color:#00ff19;}
+#line{ height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 10px auto;}
+.menu{list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    font-family: fantasy;
+    font-size: 25px;
+    cursor: pointer;
+color:#039dfc;}
+.links:hover{background-color: black;}
+.links {
+    color:#e7fc03;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+  float: left}
+#para{color: blue;}
+h1{font-variant:small-caps;
+font-size: 50px;
+color: white
+}
